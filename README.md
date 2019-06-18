@@ -21,4 +21,13 @@ and accessible.
 2. System interconnect cannot be changed because the tool used for code generation (Socrat) is not available
 3. This ARM source code cannot be used for the commercial usage accordingly with the ARM license agreement
 
+## Simulator of the ARM-based system
+
+
+[![ARM-based simulator](https://img.youtube.com/vi/h-NNvXWnNEU/hqdefault.jpg)](https://youtu.be/h-NNvXWnNEU)
+
+Universal Simulator is the part of the another repository 
+[riscv_vhdl](https://github.com/sergeykhbr/riscv_vhdl) and it already includes
+ARM processor model.
+
 # Memory Map
